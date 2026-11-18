@@ -6,7 +6,7 @@
 Посмотреть игру вживую можно здесь: https://tsvezh.github.io/dice-game/
 
 📸 Скриншот
-
+![Скриншот игры](screenshot.png)
 
 🛠 Технологии
 * HTML5
